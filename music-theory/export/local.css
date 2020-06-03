@@ -1,0 +1,10 @@
+.reveal pre {
+    width: 100%;
+    border: none;
+    box-shadow: none;
+    text-align: left;
+}
+
+.reveal li {
+    font-size: 60%;
+}
